@@ -10,7 +10,7 @@ def insertionSort(nxlist):
 
      nxlist[position]=currentvalue
 
-nxlist = [15,36,13,27,57,421,45,11,702]
+nxlist = [215,326,13,227,57,2421,425,121,7022]
 
 insertionSort(nxlist)
 
